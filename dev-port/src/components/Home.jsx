@@ -11,7 +11,7 @@ const Home = () => {
       <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row'>
         <div className='flex flex-col justify-center h-full'>
           <h2 className='text-4xl sm:text-7xl font-bold text-white'>I'm a Full Stack Developer</h2>
-          <p className='text-gray-500 py-4 max-w-md'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloribus dignissimos corporis qui et nemo asperiores modi, sint veritatis deserunt sunt?</p>
+          <p className='text-gray-500 py-4 max-w-md'>Greetings! My name is Devesh, and I'm a passionate and committed Full Stack Developer on an endeavour to create outstanding online experiences. I have experience in both front-end and back-end programming, and I enjoy implementing code to make ideas come to life. I thrive in the changing nature of the digital world.</p>
           <div>
           <Link
               to="portfolio"
