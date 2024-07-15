@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import {MdKeyboardDoubleArrowRight} from "react-icons/md";
-import HeroImage from "../assets/heroImage.jpg";
+import HeroImage from "../assets/heroImage.gif";
 import { Link } from "react-scroll";
 
 const Home = () => {
