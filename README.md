@@ -22,7 +22,7 @@ To run this project on your local device, follow these steps:
 1. Clone the GitHub repository:
 
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/DeveshxTrip/portfolio-NEW.git
     ```
 
 2. Navigate to the project directory:
